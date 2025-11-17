@@ -36,6 +36,8 @@ Otherwise:
   - **MIT:** v9-s_mit.onnx, v9-m_mit.onnx, v9-c_mit.onnx
   - **Official:** gelan-c.onnx, gelan-e.onnx, yolov9-c.onnx, yolov9-e.onnx
 
+- Added v9-s_mit.onnx for quick testing.
+
 ## Original YOLOv9 MIT model
 The original YOLOv9 MIT model can be found in this repository: [YOLOv9 MIT Repository](https://github.com/WongKinYiu/YOLO)
 - The License of the models is MIT license: [License](https://github.com/WongKinYiu/YOLO/blob/main/LICENSE)
